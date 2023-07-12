@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning PHP, Angular.js, Ajax<br><br>👨‍💻 All of my projects are available at https://ujjwalyadav2002.github.io/portfolio/<br><br>📫 How to reach me ujjwalyadav1313@gmail.com
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right"></img>
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="400"></img>
 
 
 ## 🌐 Socials:
